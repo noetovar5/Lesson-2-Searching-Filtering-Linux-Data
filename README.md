@@ -1,4 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.Lesson-2-Searching-Filtering-Linux-Data"/>
+
+
 # Lesson-2-Searching-Filtering-Linux-Data
 Week 1 — Lesson 2: Searching &amp; Filtering Linux Data
 
